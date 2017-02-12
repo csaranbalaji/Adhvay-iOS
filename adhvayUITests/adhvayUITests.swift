@@ -2,7 +2,7 @@
 //  adhvayUITests.swift
 //  adhvayUITests
 //
-//  Created by Hari Kshore Sridharan on 06/09/16.
+//  Created by Saran Balaji on 06/09/16.
 //  Copyright © 2016 Saran Balaji. All rights reserved.
 //
 
